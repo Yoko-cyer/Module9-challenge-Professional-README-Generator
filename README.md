@@ -17,5 +17,7 @@ Run `npm i` on command line to install all the dependencies.
 
 ## Links
 
-visit my github profile here: [Yoko-cyber](https://github.com/Yoko-cyer)
+visit my github profile here: [Yoko-cyber](https://github.com/Yoko-cyer/Module9-challenge-Professional-README-Generator)
+
+How to use: [video](https://drive.google.com/file/d/1RALvtB3_YnxojW-ozkLIRFY6blVpSTeG/view) 
 

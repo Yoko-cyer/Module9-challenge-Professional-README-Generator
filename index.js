@@ -11,16 +11,6 @@ inquirer.prompt([
     message: 'what is the project title?',
     name: 'title'
   },
-  // {
-  //   type: 'input',
-  //   message: 'How do you install the project',
-  //   name: 'install'
-  // },
-  // {
-  //   type: 'input',
-  //   message: 'How do you test the project',
-  //   name: 'test'
-  // },
   {
     type: 'list',
     message: 'what is the license?',
